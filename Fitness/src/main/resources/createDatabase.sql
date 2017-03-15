@@ -1,5 +1,4 @@
 CREATE DATABASE `se` /*!40100 DEFAULT CHARACTER SET utf8 */
-
 CREATE TABLE `fitness` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `min_age` int(11) NOT NULL,
